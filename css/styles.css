@@ -1,0 +1,10 @@
+#output{
+  display: none;
+}
+body{
+  background-color: lightgreen;
+  color: brown;
+}
+.btn{
+  border: 2px solid brown;
+}
